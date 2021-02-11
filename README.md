@@ -1,6 +1,7 @@
-# explosion_game
+# so simple explosion_game for learning flutter
 
 A new Flutter project.
+It was my first try in flutter.
 
 ## Getting Started
 
